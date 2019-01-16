@@ -1,6 +1,6 @@
 # openvpn-install
 
-[![GitLab CI](https://gitlab.com/angristan/openvpn-install/badges/master/pipeline.svg)](https://gitlab.com/angristan/openvpn-install/pipelines)
+Implement headless installer for services behind NAT that creates 1 standard client (Fits our requirements, probably won't yours?)
 
 OpenVPN installer for Debian, Ubuntu, Fedora, CentOS and Arch Linux.
 
